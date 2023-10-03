@@ -1,0 +1,4 @@
+stack using singly link list
+stack using doubly link list
+Queue using linked list
+
